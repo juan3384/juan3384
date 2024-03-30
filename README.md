@@ -1,5 +1,6 @@
 <div id="header" aligh="center>
-  ![giphy](https://github.com/juan3384/juan3384/assets/113257736/58edd8d9-ce1b-4a1d-bb94-25da63ae6905)
+  ![giphy](https://github.com/juan3384/juan3384/assets/113257736/cef5c4ec-b5c2-4274-b23b-f0fb9c986214)
+
   <h1 aligh="center"> Hi, I am Juan Martinez </h1>
   <h3 align="center"> I'm a passionate web fullstack developer from Spain, who loves loves everything related to technology. My life motto is "You only fail when you stop trying". <h/3>
 </div>
