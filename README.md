@@ -1,5 +1,4 @@
 <div id="header" aligh="center>
-  ![giphy]
   <h1 aligh="center"> Hi, I am Juan Martinez </h1>
   <h3 align="center"> I'm a passionate web fullstack developer from Spain, who loves loves everything related to technology. My life motto is "You only fail when you stop trying". <h/3>
 </div>
