@@ -1,5 +1,5 @@
 <div id="header" aligh="center>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJlanBlNTQ5d2xxamp1c2lnNjEzaWJpczF3ZGpxazJpMmJ3anJsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"/>
+  <https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE1NHhmajhpNnhrNWkxMHVncncwdW5sMjhseXk5OW1qbGNxazY3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="200"/>
   <h1 aligh="center"> Hi, I am Juan Martinez </h1>
   <h3 align="center"> I'm a passionate web fullstack developer from Spain, who loves loves everything related to technology. My life motto is "You only fail when you stop trying". <h/3>
 </div>
