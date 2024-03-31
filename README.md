@@ -4,7 +4,7 @@
   <h3 align="center"> I'm a passionate web fullstack developer from Spain, who loves loves everything related to technology. My life motto is "You only fail when you stop trying". <h/3>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
 
